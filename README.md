@@ -1,4 +1,4 @@
-### Olá mundo, sejam bem vindos ao meu GitHub! 👋
+### Olá mundo, sejam bem vindos! 👋
 
 ### Muito prazer, meu nome é **Fabíola Rocha** ###
 
