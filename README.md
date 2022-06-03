@@ -1,4 +1,4 @@
-### Olá mundo, sejam bem vindos! 👋
+### Olá mundo, sejam bem-vindos! 👋
 
 ### Muito prazer, meu nome é **Fabíola Rocha** ###
 
