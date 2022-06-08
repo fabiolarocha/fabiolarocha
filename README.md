@@ -1,8 +1,8 @@
-### Olá mundo, sejam bem-vindos ao meu repositório! 
+### Olá mundo, sejam bem-vindos ao meu repositório! 👋
 
 Muito prazer, meu nome é **Fabíola Rocha**, tenho formação em **Análise e Desenvolvimento de Sistemas** pela Universidade Estadual do Tocantins - UNITINS e atualmente estou fazendo Pós-Graduação em Desenvolvimento Web e Técnico em Desenvolvimento de Sistemas pelo Instituto Federal do Sul de Minas - IFSULDEMINAS.
 
-Sou uma apaixonada pelo mundo da tecnologia, inovação, proatividade e colaboração. Tenho me atualizado constantemente em bootcamps e formações, no momento estou participando da Formação ALURA ONE em Desenvolvimento FullStack. 
+Sou uma apaixonada pelo mundo da tecnologia, inovação e tenho me atualizado constantemente em imersões, bootcamps e formações, no momento estou participando da Formação ALURA ONE em Desenvolvimento FullStack. 
 
 Busco crescimento intelectual, técnico, expandindo minha networking e criando novas parcerias. ✨
 
@@ -30,7 +30,8 @@ Busco crescimento intelectual, técnico, expandindo minha networking e criando n
   <a href="https://www.linkedin.com/in/fabiolagrocha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/fagrocha" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>                                                                                                              </div>   
  <br>
- <hr>
+ 
+ **Estatísticas do meu GitHub:**
  <br>
 <div align="center">
   <a href="https://github.com/fabiolarocha">
