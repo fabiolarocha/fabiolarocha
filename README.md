@@ -9,7 +9,7 @@ Tenho sempre me atualizado em bootcamps e formações. No momento estou fazendo 
 
 Busco crescimento intelectual, técnico, expandindo minha networking e criando novas parcerias.
 
-**- Ao longo da minha trajetória tenho me dedicado as seguintes tecnologias:** 
+**Ao longo da minha trajetória tenho me dedicado as seguintes tecnologias:** 
 <div style="display: inline_block">
   <img align="center" alt="Fabi-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"">
   <img align="center" alt="Fabi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">               
