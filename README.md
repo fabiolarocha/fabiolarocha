@@ -6,7 +6,7 @@ Sou uma apaixonada pelo mundo da tecnologia, inovação e tenho me atualizado co
 
 Busco crescimento intelectual, técnico, expandindo minha networking e criando novas parcerias. ✨
 
-**Ao longo da minha trajetória tenho me dedicado as seguintes tecnologias:** 
+**TECNOLOGIAS:** 
 <div style="display: inline_block">
   <img align="center" alt="Fabi-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"">
   <img align="center" alt="Fabi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">               
@@ -22,26 +22,25 @@ Busco crescimento intelectual, técnico, expandindo minha networking e criando n
   <img align="center" alt="Fabi-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 </div>
 <br>
-<br>
                                                                                                                                                
- **Contato das Minhas Redes Sociais:**  
+ **MINHAS REDES SOCIAIS:**  
                                                                                                                                                
  <div>
   <a href="https://www.linkedin.com/in/fabiolagrocha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/fagrocha" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>                                                                                                              </div>   
- <br>
+ <br> 
  
- **Estatísticas do meu GitHub:**
- <br>
+ ![Snake animation](https://github.com/fabiolarocha/fabiolarocha/blob/output/github-contribution-grid-snake.svg) 
+<br>
 <div align="center">
   <a href="https://github.com/fabiolarocha">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabiolarocha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiolarocha&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <br>
-                                                                                                                                               
-![Snake animation](https://github.com/fabiolarocha/fabiolarocha/blob/output/github-contribution-grid-snake.svg)                                                                                                                                               
 
+                                                                                                                                               
+                                                       
 
                                                                                                                                               
                                                                                                                                                
