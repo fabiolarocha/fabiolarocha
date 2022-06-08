@@ -1,9 +1,11 @@
 ### Olá mundo, sejam bem-vindos ao meu repositório! 
 
 Muito prazer, meu nome é **Fabíola Rocha**, tenho formação em **Análise e Desenvolvimento de Sistemas** pela Universidade Estadual do Tocantins - UNITINS.
+
 Atualmente estou fazendo Pós-Graduação em Desenvolvimento Web e Técnico em Desenvolvimento de Sistemas pelo Instituto Federal do Sul de Minas - IFSULDEMINAS.
 
-Sou uma apaixonado pelo mundo da tecnologia, inovação, proatividade, espirito colaborativo e tenho buscado sempre novos conhecimentos em bootcamps e formações. No momento estou fazendo a Formação ALURA ONE em Desenvolvimento FullStack e tem sido muito importante todas essas atualizações. ✨
+Sou uma apaixonado pelo mundo da tecnologia, inovação, proatividade e colaboração.
+Tenho sempre me atualizado em bootcamps e formações. No momento estou fazendo a Formação ALURA ONE em Desenvolvimento FullStack. ✨
 
 Busco crescimento intelectual, técnico, expandindo minha networking e criando novas parcerias.
 
