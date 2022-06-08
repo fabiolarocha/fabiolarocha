@@ -41,8 +41,7 @@ Busco crescimento intelectual, técnico, expandindo minha networking e criando n
 <br>
 
 
-                                                                                                                                               
-  ##
+                                                                                                                                              
                                                                                                                                                
                                                                                                                                           
   
@@ -51,11 +50,4 @@ Busco crescimento intelectual, técnico, expandindo minha networking e criando n
           
 
           
-                                                                                                                                                     
-       
-                                                                                                                                               
-          
-  
-  
-         
-                      
+                                                                                                                                                                                                                                              
