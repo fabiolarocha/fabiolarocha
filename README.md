@@ -6,7 +6,7 @@ Sou uma apaixonada pelo mundo da tecnologia, inovação e tenho buscado me atual
 
 Busco constatemente desenvolver minhas soft skills, hard skills, expandindo minha networking e criando novas parcerias. ✨
 
-**TECNOLOGIAS:** 
+**LINGUAGENS E FERRAMENTAS:** 
 <div style="display: inline_block">
   <img align="center" alt="Fabi-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"">
   <img align="center" alt="Fabi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">               
