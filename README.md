@@ -4,7 +4,7 @@ Muito prazer, meu nome é **Fabíola Rocha**, tenho formação em **Análise e D
 
 Sou apaixonada pelo mundo da tecnologia, inovação e tenho buscado me atualizar constantemente em imersões, bootcamps e formações, neste momento estou participando da **Formação ORACLE Next Education ALURA ONE em Desenvolvimento FullStack.** 
 
-Busco constatemente desenvolver minhas soft skills, hard skills, expandindo minha networking e criando novas parcerias. ✨
+Busco constatemente desenvolver minhas soft skills e hard skills expandindo minha networking. ✨
 
 **LINGUAGENS E FERRAMENTAS:** 
 <div style="display: inline_block">
