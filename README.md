@@ -1,10 +1,23 @@
 ### Hello World!!! Sejam bem-vindos ao meu repositório! 👋
 
-Muito prazer, meu nome é **Fabíola Rocha**, tenho formação em **Análise e Desenvolvimento de Sistemas** pela Universidade Estadual do Tocantins e atualmente estou cursando Pós-Graduação em Desenvolvimento Web pelo Instituto Federal do Sul de Minas Gerais - IFSULDEMINAS.
+Muito prazer, meu nome é **Fabíola Rocha**, tenho formação em Análise e Desenvolvimento de Sistemas pela Universidade Estadual do Tocantins e atualmente estou cursando Pós-Graduação em Desenvolvimento Web pelo IFSULDEMINAS.
 
-Sou apaixonada pelo mundo da tecnologia, inovação e tenho buscado me atualizar constantemente em imersões, bootcamps e formações, neste momento estou participando da **Formação ORACLE Next Education ALURA ONE em Desenvolvimento FullStack.** 
+Sou uma apaixonada pelo mundo da tecnologia, inovação e tenho buscado me atualizar constantemente em imersões, bootcamps e formações, no momento estou participando das seguintes Formações: 
 
-Busco constatemente desenvolver minhas soft skills e hard skills expandindo minha networking. ✨
+💻 ORACLE Next Education ALURA ONE 
+ - Formação Empreendedorismo 
+ - Formação Desenvolvimento Pessoal 
+ - Formação Business Agility 
+ - Formação em Programação com JavaScript 
+ - Formação em Desenvolvimento Web - Front-end, Java Orientação a Objetos 
+ - Formação MySQL Server da Oracle [ Em andamento ]
+ - Formação Data Science no OCI e Oracle Analytics [ Em andamento ]
+
+💻 Santander Code Girls - Java, Spring Boot - DIO [ Em andamento ]
+
+Ao longo da minha trajetória tenho me dedicado as seguintes tecnologias: JavaScript, React, Bootstrap, NodeJS, Java, MySQL, SQL, UI / UX Design entre outras.
+
+Busco constatemente desenvolver minhas soft skills, hard skills, expandindo minha networking e criando novas parcerias. ✨
 
 **LINGUAGENS E FERRAMENTAS:** 
 <div style="display: inline_block">
