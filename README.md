@@ -2,7 +2,6 @@
 #### Sejam bem-vindos ao meu repositório! 
 
 Muito prazer, meu nome é **Fabíola Rocha**, tenho formação em Análise e Desenvolvimento de Sistemas pela Universidade Estadual do Tocantins e atualmente estou cursando Pós-Graduação em Desenvolvimento Web pelo IFSULDEMINAS.
-
 Sou uma apaixonada pelo mundo da tecnologia, inovação e tenho buscado me atualizar constantemente em imersões, bootcamps e formações, no momento estou participando das seguintes Formações: 
 
 💻 ORACLE Next Education ALURA ONE 
