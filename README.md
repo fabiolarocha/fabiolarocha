@@ -1,14 +1,10 @@
-### Hello World!!! 👋
+### System.out.print(“Hello World!”); 👋
 #### Sejam bem-vindos ao meu repositório! 
 
-Muito prazer, meu nome é **Fabíola Rocha**, tenho formação em Análise e Desenvolvimento de Sistemas e atualmente estou cursando Pós-Graduação em Desenvolvimento Web.
-Sou apaixonada pelo mundo da tecnologia e tenho buscado me atualizar constantemente em imersões, bootcamps e formações, no momento estou participando das seguintes Formações: 
+Sejam bem-vindos!
+Sou graduada em Análise e Desenvolvimento de Sistemas e atualmente estou concluíndo minha Pós-Graduação em Desenvolvimento Web.
 
-💻 ORACLE Next Education ALURA ONE 
-
-💻 Santander Code Girls - Java, Spring Boot - DIO 
-
-Busco constatemente desenvolver minhas soft skills, hard skills, expandindo minha networking e criando novas parcerias. ✨
+Atualmente tenho focado meus estudos em Java Web e estou me aventurando no mundo da aprendizagem de máquina, tema do meu trabalho de conclusão de curso "Algoritmos de Machine Learning na prevenção  de tratamentos de saúde."
 
 **LINGUAGENS E FERRAMENTAS que uso atualmente:** 
 <div style="display: inline_block">
