@@ -1,7 +1,6 @@
 ### System.out.print(“Hello World!”); 👋
 #### Sejam bem-vindos ao meu repositório! 
 
-Sejam bem-vindos!
 Sou graduada em Análise e Desenvolvimento de Sistemas e atualmente estou concluíndo minha Pós-Graduação em Desenvolvimento Web.
 
 Atualmente tenho focado meus estudos em Java Web e estou me aventurando no mundo da aprendizagem de máquina, tema do meu trabalho de conclusão de curso "Algoritmos de Machine Learning na prevenção  de tratamentos de saúde."
