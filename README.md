@@ -1,11 +1,10 @@
 ### System.out.print(“Hello World!”); 👋
-#### Sejam bem-vindos ao meu repositório! 
+#### Welcome to my repository!
+I have a degree in Systems Analysis and Development and I am currently completing my Post-Graduation in Web Development.
 
-Sou graduada em Análise e Desenvolvimento de Sistemas e atualmente estou concluíndo minha Pós-Graduação em Desenvolvimento Web.
+I'm currently focusing my studies on Java Web and I'm venturing into the world of machine learning, the subject of my course conclusion work "Machine Learning Algorithms in the prevention of health treatments."
 
-Atualmente tenho focado meus estudos em Java Web e estou me aventurando no mundo da aprendizagem de máquina, tema do meu trabalho de conclusão de curso "Algoritmos de Machine Learning na prevenção  de tratamentos de saúde."
-
-**LINGUAGENS E FERRAMENTAS que uso atualmente:** 
+**LANGUAGES AND TOOLS I currently use:** 
 <div style="display: inline_block">
   <img align="center" alt="Fabi-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"">
   <img align="center" alt="Fabi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">               
@@ -22,7 +21,7 @@ Atualmente tenho focado meus estudos em Java Web e estou me aventurando no mundo
 </div>
 <br>
                                                                                                                                                
- **MINHAS REDES SOCIAIS:**  
+ **MY SOCIAL NETWORKS:**  
                                                                                                                                                
  <div>
   <a href="https://www.linkedin.com/in/fabiolagrocha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
