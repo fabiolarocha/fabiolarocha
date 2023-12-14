@@ -2,7 +2,7 @@
 
 ### Muito prazer, me chamo Fabíola Rocha!
 
-Entusiasta de tecnologia, inovação e evangelizadora da Cultura da Qualidade em todas as etapas do desenvolvimento do software, garantindo entregas que atendam às expectativas dos clientes e usuários e colaborando para o time alcançar a maior qualidade possível.<br>
+Entusiasta de tecnologia, inovação e evangelizadora da Cultura da Qualidade em todas as etapas do desenvolvimento do software. Garantindo entregas que atendam às expectativas dos clientes e usuários e colaborando para o time alcançar a maior qualidade possível.<br>
 Para isso, estou sempre em busca de novos conhecimento, tecnologias emergentes e processos mais ágeis.
 <br><br>
 Possuo mais de 12 anos de experiência, atuando nas áreas de administração, finanças, pesquisa e tecnologia, onde desenvolvi competências em planejamento estratégico, elaboração de processos, análise e interpretação de dados para obtenção de insights relevantes. Tenho habilidade para me adaptar a mudanças, superar desafios e colaborar com profissionais de diferentes áreas para alcançar resultados em conjunto. 
