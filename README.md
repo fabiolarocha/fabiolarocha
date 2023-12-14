@@ -1,12 +1,27 @@
-## Hello World! I'm Fabiola Rocha. 👋
-#### Welcome to my repository!
+## Seja bem-vindo ao meu repositório! 🤝
 
-<br>
-I have a degree in Systems Analysis and Development and I am currently completing my Post-Graduation in Web Development.
+### Muito prazer, me chamo Fabíola Rocha!
 
-I'm currently focusing my studies on Java Web and I'm venturing into the world of machine learning, the subject of my course conclusion work "Machine Learning Algorithms in the prevention of health treatments."
+Entusiasta em tecnologia e inovação com formação em Análise e Desenvolvimento de Sistemas, especialização em Desenvolvimento Web e atualmente estou focada em Quality Assurance (QA) - Garantia da Qualidade de Software. 
+<br><br>
+Possuo mais de 12 anos de experiência, atuando nas áreas de administração, finanças, pesquisa e tecnologia, desenvolvi competências em planejamento estratégico, elaboração de processos, análise e interpretação de dados para obtenção de insights relevantes. Tenho habilidade para me adaptar a mudanças, superar desafios e colaborar com profissionais de diferentes áreas para alcançar resultados em conjunto. 
 
-**LANGUAGES AND TOOLS I currently use:** 
+### 🎓 Formação acadêmica 
+- Especialização em Desenvolvimento Web - [Instituto Federal do Sul do Minas Gerais](https://portal.ifsuldeminas.edu.br/) ✔️<br>
+- Graduação em Análise e Desenvolvimento de Sistemas -  [Universidade Estadual do Tocantins](https://www.unitins.br/nPortal/) ✔️<br>
+- Técnico em Desenvolvimento de Sistemas - [Instituto Federal do Sul do Minas Gerais](https://portal.ifsuldeminas.edu.br/) ✔️<br>
+### 🎯 Treinamentos e Bootcamps em Quality Assurance 
+- Bugou? Tá ON - Quality Assurance - [Instituto Joga Junto](https://www.linkedin.com/company/institutojogajunto/); ✔️<br>
+- Gestão de Projetos Ágeis - [Instituto Joga Junto](https://www.linkedin.com/company/institutojogajunto/); ✔️<br>
+- Treinamento em Quality Assurance - [Qa.Coders](https://www.linkedin.com/company/qa-coders/); ✔️<br>
+- Bootcamp em Quality Assurance - [Instituto Atlântico](https://www.linkedin.com/company/instituto-atlantico/) [Avanti](https://www.linkedin.com/company/avantiatlantico/)✔️<br>
+### 📚 Em andamento 
+- Licenciatura em Computação -  [Universidade Federal do Tocantins](https://ww2.uft.edu.br/);
+- Inglês - [TALKNTALK](https://www.talkntalk.com.br/);
+
+
+
+### LANGUAGES AND TOOLS I currently use:
 <div style="display: inline_block">
   <img align="center" alt="Fabi-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"">
   <img align="center" alt="Fabi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">               
