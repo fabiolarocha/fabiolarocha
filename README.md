@@ -15,6 +15,11 @@ Possuo conhecimento em ferramentas de testes, gestão de projetos, banco de dado
 - Especialização em Desenvolvimento Web - [Instituto Federal do Sul do Minas Gerais](https://portal.ifsuldeminas.edu.br/) ✔️<br>
 - Graduação em Análise e Desenvolvimento de Sistemas -  [Universidade Estadual do Tocantins](https://www.unitins.br/nPortal/) ✔️<br>
 - Técnico em Desenvolvimento de Sistemas - [Instituto Federal do Sul do Minas Gerais](https://portal.ifsuldeminas.edu.br/) ✔️<br>
+- Licenciatura em Computação -  [Universidade Federal do Tocantins](https://ww2.uft.edu.br/) [Em andamento];
+
+### 🎖️ Idioma 
+- Inglês Básico - [TALKNTALK](https://www.talkntalk.com.br/);
+  
 ### 🎯 Treinamentos e Bootcamps em Quality Assurance 
 - Bugou? Tá ON - Quality Assurance - [Instituto Joga Junto](https://www.linkedin.com/company/institutojogajunto/); ✔️<br>
   -  Aprendizados: EM ANDAMENTO
@@ -28,11 +33,7 @@ Possuo conhecimento em ferramentas de testes, gestão de projetos, banco de dado
 - Bootcamp em Quality Assurance - [Instituto Atlântico](https://www.linkedin.com/company/instituto-atlantico/) [Avanti](https://www.linkedin.com/company/avantiatlantico/)✔️<br>
   -  Aprendizados: EM ANDAMENTO
   -  
-### 📚 Em andamento 
-- Licenciatura em Computação -  [Universidade Federal do Tocantins](https://ww2.uft.edu.br/);
-- Inglês - [TALKNTALK](https://www.talkntalk.com.br/);
 
-----
 
 ### 📚 Principais Projetos 
 Em construção
