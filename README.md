@@ -2,7 +2,7 @@
 
 ### Muito prazer, me chamo Fabíola Rocha!
 
-Entusiasta de tecnologia, inovação e evangelizadora da Cultura da Qualidade em todas as etapas do desenvolvimento do software. Garantindo entregas que atendam às expectativas dos clientes e usuários e colaborando para o time alcançar a maior qualidade possível.<br>
+Entusiasta de tecnologia, inovação e Evangelizadora da Cultura da Qualidade em todas as etapas do desenvolvimento do software. Garantindo entregas que atendam às expectativas dos clientes e usuários e colaborando para o time alcançar a maior qualidade possível.<br>
 Para isso, estou sempre em busca de novos conhecimento, tecnologias emergentes e processos mais ágeis.
 <br><br>
 Possuo mais de 12 anos de experiência, atuando nas áreas de administração, finanças, pesquisa e tecnologia, onde desenvolvi competências em planejamento estratégico, elaboração de processos, análise e interpretação de dados para obtenção de insights relevantes. Tenho habilidade para me adaptar a mudanças, superar desafios e colaborar com profissionais de diferentes áreas para alcançar resultados em conjunto. 
@@ -17,16 +17,28 @@ Possuo conhecimento em ferramentas de testes, gestão de projetos, banco de dado
 - Técnico em Desenvolvimento de Sistemas - [Instituto Federal do Sul do Minas Gerais](https://portal.ifsuldeminas.edu.br/) ✔️<br>
 ### 🎯 Treinamentos e Bootcamps em Quality Assurance 
 - Bugou? Tá ON - Quality Assurance - [Instituto Joga Junto](https://www.linkedin.com/company/institutojogajunto/); ✔️<br>
+  -  Aprendizados: EM ANDAMENTO
+  -  
 - Gestão de Projetos Ágeis - [Instituto Joga Junto](https://www.linkedin.com/company/institutojogajunto/); ✔️<br>
+  -  Aprendizados: EM ANDAMENTO
+  -  
 - Treinamento em Quality Assurance - [Qa.Coders](https://www.linkedin.com/company/qa-coders/); ✔️<br>
+  -  Aprendizados: EM ANDAMENTO
+  -  
 - Bootcamp em Quality Assurance - [Instituto Atlântico](https://www.linkedin.com/company/instituto-atlantico/) [Avanti](https://www.linkedin.com/company/avantiatlantico/)✔️<br>
+  -  Aprendizados: EM ANDAMENTO
+  -  
 ### 📚 Em andamento 
 - Licenciatura em Computação -  [Universidade Federal do Tocantins](https://ww2.uft.edu.br/);
 - Inglês - [TALKNTALK](https://www.talkntalk.com.br/);
 
+----
+
+### 📚 Principais Projetos 
+Em construção
 
 
-### LANGUAGES AND TOOLS I currently use:
+### Tecnologias que estou utilizando:
 <div style="display: inline_block">
   <img align="center" alt="Fabi-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"">
   <img align="center" alt="Fabi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">               
@@ -43,8 +55,8 @@ Possuo conhecimento em ferramentas de testes, gestão de projetos, banco de dado
 </div>
 <br>
                                                                                                                                                
- **MY SOCIAL NETWORKS:**  
-                                                                                                                                               
+
+### Contatos                                                                                                                                                
  <div>
   <a href="https://www.linkedin.com/in/fabiolagrocha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/fagrocha" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>                                                                                                              </div>   
