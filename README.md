@@ -15,7 +15,7 @@ Possuo conhecimento em ferramentas de testes, gestão de projetos, banco de dado
 - Especialização em Desenvolvimento Web - [Instituto Federal do Sul do Minas Gerais](https://portal.ifsuldeminas.edu.br/) ✔️<br>
 - Graduação em Análise e Desenvolvimento de Sistemas -  [Universidade Estadual do Tocantins](https://www.unitins.br/nPortal/) ✔️<br>
 - Técnico em Desenvolvimento de Sistemas - [Instituto Federal do Sul do Minas Gerais](https://portal.ifsuldeminas.edu.br/) ✔️<br>
-- Licenciatura em Computação -  [Universidade Federal do Tocantins](https://ww2.uft.edu.br/) ⏳
+- Cursando Licenciatura em Computação -  [Universidade Federal do Tocantins](https://ww2.uft.edu.br/) ⏳
 
 ### 🎖️ Idioma 
 - Inglês Básico - [TALKNTALK](https://www.talkntalk.com.br/);
