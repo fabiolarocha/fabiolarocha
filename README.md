@@ -31,8 +31,13 @@ Possuo conhecimento em ferramentas de testes, gestão de projetos, banco de dado
   -  Aprendizados: EM ANDAMENTO
   -  
 - Bootcamp em Quality Assurance - [Instituto Atlântico](https://www.linkedin.com/company/instituto-atlantico/) [Avanti](https://www.linkedin.com/company/avantiatlantico/)✔️<br>
-  -  Aprendizados: EM ANDAMENTO
-  -  
+  -  Repositório: [Loja online: Product Store](https://github.com/fabiolarocha/bootcampQA_Atlantico).
+  -  Aprendizados:
+     1. Planejamento estratégico - Durante os testes, aprendemos a importância de estabelecer objetivos claros, realizar análises detalhadas e criar uma estratégia bem definida. Essa abordagem nos permitiu direcionar nossos esforços de teste eficientemente e obter resultados mais precisos;<br>
+     2. Experiência no ambiente de trabalho real - Isso nos proporcionou uma compreensão mais profunda dos desafios e demandas enfrentadas no dia a dia em um ambiente real. Essa vivência nos ajudou a adaptar nossas estratégias de teste conforme a realidade do projeto;<br>
+     3. Importância da documentação - Durante o desenvolvimento aprendemos a escrever e a valorizar a elaboração de documentações e relatórios de teste. Essa prática nos permitiu registrar e comunicar claramente os resultados, facilitando a identificação e correção de problemas;<br>
+     4. Identificação de falhas em segurança e usabilidade - Essas descobertas foram essenciais para pontuarmos as melhorias necessárias, permitindo que medidas corretivas sejam tomadas para garantir a qualidade do produto, a proteção dos dados e proporcionar uma experiência mais satisfatória dos usuários;<br>
+     5. Trabalho em equipe - A colaboração e sinergia entre os membros da equipe foram essenciais para alcançar resultados de qualidade. <br>
 
 
 ### 📚 Principais Projetos 
