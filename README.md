@@ -23,7 +23,7 @@ Possuo conhecimento em ferramentas de testes, gestão de projetos, banco de dado
   Repositório: 
   
 - Treinamento em Quality Assurance - [Qa.Coders](https://www.linkedin.com/company/qa-coders/); ✔️<br>
-   Repositório:
+   Repositório: [Projetos](https://github.com/fabiolarocha/bugou_taON_InstitutoJJ)
   
 - Bootcamp em Quality Assurance - [Instituto Atlântico](https://www.linkedin.com/company/instituto-atlantico/) [Avanti](https://www.linkedin.com/company/avantiatlantico/)✔️<br>
   Repositório: [Loja online: Product Store](https://github.com/fabiolarocha/bootcampQA_Atlantico).
