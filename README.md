@@ -1,6 +1,4 @@
-## Bem-vindo ao meu repositório! 🤝
-
-#### Muito prazer, me chamo Fabíola Rocha!
+## Bem-vindo ao meu repositório! Muito prazer, me chamo Fabíola Rocha! 🤝
 
 Entusiasta de tecnologia, inovação e Evangelizadora da Cultura da Qualidade em todas as etapas do desenvolvimento do software. Garantindo entregas que atendam às expectativas dos clientes e usuários e colaborando para o time alcançar a maior qualidade possível.<br>
 Para isso, estou sempre em busca de novos conhecimento, tecnologias emergentes e processos mais ágeis.
