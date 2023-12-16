@@ -1,13 +1,10 @@
 ## Bem-vindo ao meu repositório! Muito prazer, me chamo Fabíola Rocha! 🤝
 
-Entusiasta de tecnologia, inovação e Evangelizadora da Cultura da Qualidade em todas as etapas do desenvolvimento do software. Garantindo entregas que atendam às expectativas dos clientes e usuários e colaborando para o time alcançar a maior qualidade possível.<br>
-Para isso, estou sempre em busca de novos conhecimento, tecnologias emergentes e processos mais ágeis.
-<br><br>
-Possuo mais de 12 anos de experiência, atuando nas áreas de administração, finanças, pesquisa e tecnologia, onde desenvolvi competências em planejamento estratégico, elaboração de processos, análise e interpretação de dados para obtenção de insights relevantes. Tenho habilidade para me adaptar a mudanças, superar desafios e colaborar com profissionais de diferentes áreas para alcançar resultados em conjunto. 
-<br><br>
-Atualmente estou me especializando em Quality Assurance - Garantia da Qualidade de Software, onde tenho desenvolvido expertices em processos de qualidade de software, boas práticas, documentações técnicas (plano de testes, especificação de testes, relatórios de testes e de bugs) cenários de teste e testes funcionais. 
-<br>
-Possuo conhecimento em ferramentas de testes, gestão de projetos, banco de dado: SQL, MongoDB, metodologias ágeis, scrum, kanban e versionamento de código, 
+Entusiasta de tecnologia e inovação, evangelizadora da Cultura da Qualidade em todas as etapas do desenvolvimento de software. Meu objetivo é garantir entregas que atendam às expectativas dos clientes e usuários, contribuindo para alcançar a maior qualidade possível. Estou sempre em busca de novos conhecimentos, tecnologias emergentes e processos mais ágeis.
+
+Com mais de 12 anos de experiência em administração, finanças, pesquisa e tecnologia, desenvolvi competências em planejamento estratégico, elaboração de processos, análise e interpretação de dados para obter insights relevantes. Sou capaz de me adaptar a mudanças, superar desafios e colaborar com profissionais de diferentes áreas para alcançar resultados em conjunto.
+
+Atualmente, estou me especializando em Garantia da Qualidade de Software (Quality Assurance), desenvolvendo expertise em processos de qualidade de software, boas práticas, documentação técnica (plano de testes, especificação de testes, relatórios de testes e de bugs), cenários de teste e testes funcionais. Tenho conhecimentos em ferramentas de teste, gestão de projetos, bancos de dados (SQL, MongoDB), metodologias ágeis (scrum, kanban) e versionamento de código.
 
 ### 🎓 Formação acadêmica 
 - Especialização em Desenvolvimento Web - [Instituto Federal do Sul do Minas Gerais](https://portal.ifsuldeminas.edu.br/) ✔️<br>
