@@ -1,6 +1,6 @@
 ## Bem-vindo ao meu repositório! 🤝
 
-### Muito prazer, me chamo Fabíola Rocha!
+#### Muito prazer, me chamo Fabíola Rocha!
 
 Entusiasta de tecnologia, inovação e Evangelizadora da Cultura da Qualidade em todas as etapas do desenvolvimento do software. Garantindo entregas que atendam às expectativas dos clientes e usuários e colaborando para o time alcançar a maior qualidade possível.<br>
 Para isso, estou sempre em busca de novos conhecimento, tecnologias emergentes e processos mais ágeis.
@@ -22,23 +22,13 @@ Possuo conhecimento em ferramentas de testes, gestão de projetos, banco de dado
   
 ### 🎯 Treinamentos e Bootcamps em Quality Assurance 
 - Bugou? Tá ON - Quality Assurance - [Instituto Joga Junto](https://www.linkedin.com/company/institutojogajunto/); ✔️<br>
-  -  Aprendizados: EM ANDAMENTO
-  -  
-- Gestão de Projetos Ágeis - [Instituto Joga Junto](https://www.linkedin.com/company/institutojogajunto/); ✔️<br>
-  -  Aprendizados: EM ANDAMENTO
-  -  
+  Repositório: 
+  
 - Treinamento em Quality Assurance - [Qa.Coders](https://www.linkedin.com/company/qa-coders/); ✔️<br>
-  -  Aprendizados: EM ANDAMENTO
-  -  
+   Repositório:
+  
 - Bootcamp em Quality Assurance - [Instituto Atlântico](https://www.linkedin.com/company/instituto-atlantico/) [Avanti](https://www.linkedin.com/company/avantiatlantico/)✔️<br>
-  -  Repositório: [Loja online: Product Store](https://github.com/fabiolarocha/bootcampQA_Atlantico).
-  -  Aprendizados:
-     1. Planejamento estratégico - Durante os testes, aprendemos a importância de estabelecer objetivos claros, realizar análises detalhadas e criar uma estratégia bem definida. Essa abordagem nos permitiu direcionar nossos esforços de teste eficientemente e obter resultados mais precisos;<br>
-     2. Experiência no ambiente de trabalho real - Isso nos proporcionou uma compreensão mais profunda dos desafios e demandas enfrentadas no dia a dia em um ambiente real. Essa vivência nos ajudou a adaptar nossas estratégias de teste conforme a realidade do projeto;<br>
-     3. Importância da documentação - Durante o desenvolvimento aprendemos a escrever e a valorizar a elaboração de documentações e relatórios de teste. Essa prática nos permitiu registrar e comunicar claramente os resultados, facilitando a identificação e correção de problemas;<br>
-     4. Identificação de falhas em segurança e usabilidade - Essas descobertas foram essenciais para pontuarmos as melhorias necessárias, permitindo que medidas corretivas sejam tomadas para garantir a qualidade do produto, a proteção dos dados e proporcionar uma experiência mais satisfatória dos usuários;<br>
-     5. Trabalho em equipe - A colaboração e sinergia entre os membros da equipe foram essenciais para alcançar resultados de qualidade. <br>
-
+  Repositório: [Loja online: Product Store](https://github.com/fabiolarocha/bootcampQA_Atlantico).
 
 ### 📚 Principais Projetos 
 Em construção
