@@ -15,18 +15,17 @@ Atualmente, estou me especializando em Garantia da Qualidade de Software (Qualit
 ### 🎖️ Idioma 
 - Inglês Básico - [TALKNTALK](https://www.talkntalk.com.br/);
   
-### 🎯 Treinamentos e Bootcamps em Quality Assurance 
+### 🎯 Principais Projetos - Treinamentos e Bootcamps em Quality Assurance 
 - Bugou? Tá ON - Quality Assurance - [Instituto Joga Junto](https://www.linkedin.com/company/institutojogajunto/); ✔️<br>
   Repositório: 
   
 - Treinamento em Quality Assurance - [Qa.Coders](https://www.linkedin.com/company/qa-coders/); ✔️<br>
    Repositório: [Projetos](https://github.com/fabiolarocha/bugou_taON_InstitutoJJ)
   
-- Bootcamp em Quality Assurance - [Instituto Atlântico](https://www.linkedin.com/company/instituto-atlantico/) [Avanti](https://www.linkedin.com/company/avantiatlantico/)✔️<br>
-  Repositório: [Loja online: Product Store](https://github.com/fabiolarocha/bootcampQA_Atlantico).
-
-### 📚 Principais Projetos 
-Em construção
+- ***Bootcamp em Quality Assurance*** - [Instituto Atlântico](https://www.linkedin.com/company/instituto-atlantico/) [Avanti](https://www.linkedin.com/company/avantiatlantico/)✔️<br>
+  Repositório: [Loja online: Product Store](https://github.com/fabiolarocha/bootcampQA_Atlantico).<br>
+  Ferramentas utilizadas: <br>
+  [![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)]()      [![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]()     [![Google Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)]()     [![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white])]()     [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)]()    [![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white)]()     [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()
 
 
 ### Tecnologias que estou utilizando:
