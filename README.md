@@ -45,10 +45,12 @@ Atualmente, estou me especializando em Garantia da Qualidade de Software (Qualit
   [![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white)]()
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]() <br>
                                                                                                                                              
+ ### Atividades
+ ![Fabíola's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiolarocha&show_icons=true&theme=radical)
+
+<br> 
+
 ### Contatos                                                                                                                                                
  <div>
-  <a href="https://www.linkedin.com/in/fabiolagrocha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-                                                                                                            </div>   
+  <a href="https://www.linkedin.com/in/fabiolagrocha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br> 
  <br> 
- 
- 
