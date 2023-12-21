@@ -46,7 +46,7 @@ Atualmente, estou me especializando em Garantia da Qualidade de Software (Qualit
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]() <br>
                                                                                                                                              
  ### Atividades
- ![Fabíola's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiolarocha&show_icons=true&theme=radical)
+
 
 <br> 
 
