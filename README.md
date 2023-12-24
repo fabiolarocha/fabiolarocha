@@ -17,10 +17,10 @@ Atualmente, estou me especializando em Garantia da Qualidade de Software (Qualit
   
 ### 🎯 Principais Projetos - Treinamentos e Bootcamps em Quality Assurance 
 ◾  ***Bugou? Tá ON - Quality Assurance*** - [Instituto Joga Junto](https://www.linkedin.com/company/institutojogajunto/); ✔️<br>
-  Repositório: 
+  Repositório: EM ANDAMENTO <br>
   
 ◾  ***Treinamento em Quality Assurance*** - [Qa.Coders](https://www.linkedin.com/company/qa-coders/); ✔️<br>
-   Repositório: <br>
+   Repositório: EM ANDAMENTO <br>  
    Ferramentas utilizadas: <br> 
 
 [![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
