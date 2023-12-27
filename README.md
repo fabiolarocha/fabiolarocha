@@ -46,7 +46,7 @@ Atualmente, estou me especializando em Garantia da Qualidade de Software (Qualit
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]() <br>
                                                                                                                                              
  ### Experiência
-- Analista de Testes e Qualidade de Software (QA) Júnior  <br>
+***Analista de Testes e Qualidade de Software (QA) Júnior - Qa.Coders Academy***  <br>
 Voluntária como Analista de Teste QA Júnior, faço parte ativamente da concepção e do planejamento do projeto, colaborando com a equipe de desenvolvimento e stakeholders para identificar requisitos e garantir a qualidade desde o início do processo.  <br>
 - Realizo análises detalhadas de requisitos e especificações, traduzindo-os em casos de teste abrangentes e eficazes.  <br>
 - Sou responsável por criar e executar casos de teste manuais e exploratórios, assegurando a qualidade do software. Identifico problemas de qualidade, rastreando e documentando-os de forma clara e concisa.  <br>
