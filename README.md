@@ -48,14 +48,14 @@ Atualmente, estou me especializando em Garantia da Qualidade de Software (Qualit
  ### Experiência
 - Analista de Testes e Qualidade de Software (QA) Júnior  <br>
 Voluntária como Analista de Teste QA Júnior, faço parte ativamente da concepção e do planejamento do projeto, colaborando com a equipe de desenvolvimento e stakeholders para identificar requisitos e garantir a qualidade desde o início do processo.  <br>
-✔️ Realizo análises detalhadas de requisitos e especificações, traduzindo-os em casos de teste abrangentes e eficazes.  <br>
-✔️ Sou responsável por criar e executar casos de teste manuais e exploratórios, assegurando a qualidade do software. Identifico problemas de qualidade, rastreando e documentando-os de forma clara e concisa.  <br>
-✔️ Colaboro com a equipe de desenvolvimento na investigação e reprodução de problemas relatados, facilitando uma resolução rápida e eficiente.  <br>
-✔️ Tenho uma mentalidade proativa, focando na evangelização da qualidade, sempre buscando oportunidades para melhorias contínuas nos processos de teste e garantia de qualidade.  <br>
-✔️ Criação de cenários de testes; <br>
-✔️ Gerenciamento de evidências no Azure DevOps, reportando e validando bugs e melhorias; <br>
-✔️ Automação de testes API com Postman; <br>
-✔️ Execução de teste funcionais e não funcionais. <br>
+- Realizo análises detalhadas de requisitos e especificações, traduzindo-os em casos de teste abrangentes e eficazes.  <br>
+- Sou responsável por criar e executar casos de teste manuais e exploratórios, assegurando a qualidade do software. Identifico problemas de qualidade, rastreando e documentando-os de forma clara e concisa.  <br>
+- Colaboro com a equipe de desenvolvimento na investigação e reprodução de problemas relatados, facilitando uma resolução rápida e eficiente.  <br>
+- Tenho uma mentalidade proativa, focando na evangelização da qualidade, sempre buscando oportunidades para melhorias contínuas nos processos de teste e garantia de qualidade.  <br>
+- Criação de cenários de testes; <br>
+- Gerenciamento de evidências no Azure DevOps, reportando e validando bugs e melhorias; <br>
+- Automação de testes API com Postman; <br>
+- Execução de teste funcionais e não funcionais. <br>
 
 <br> 
 
