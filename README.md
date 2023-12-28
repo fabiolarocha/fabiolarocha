@@ -43,20 +43,7 @@ Atualmente, estou me especializando em Garantia da Qualidade de Software (Qualit
   [![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white])]()
   [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)]()
   [![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white)]()
-  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]() <br>
-                                                                                                                                             
- ### Experiência
-***Analista de Testes e Qualidade de Software (QA) Júnior - Qa.Coders Academy***  <br>
-Voluntária como Analista de Teste QA Júnior, faço parte ativamente da concepção e do planejamento do projeto, colaborando com a equipe de desenvolvimento e stakeholders para identificar requisitos e garantir a qualidade desde o início do processo.  <br>
-- Realizo análises detalhadas de requisitos e especificações, traduzindo-os em casos de teste abrangentes e eficazes.  <br>
-- Sou responsável por criar e executar casos de teste manuais e exploratórios, assegurando a qualidade do software. Identifico problemas de qualidade, rastreando e documentando-os de forma clara e concisa.  <br>
-- Colaboro com a equipe de desenvolvimento na investigação e reprodução de problemas relatados, facilitando uma resolução rápida e eficiente.  <br>
-- Tenho uma mentalidade proativa, focando na evangelização da qualidade, sempre buscando oportunidades para melhorias contínuas nos processos de teste e garantia de qualidade.  <br>
-- Criação de cenários de testes; <br>
-- Gerenciamento de evidências no Azure DevOps, reportando e validando bugs e melhorias; <br>
-- Automação de testes API com Postman; <br>
-- Execução de teste funcionais e não funcionais. <br>
-
+  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()
 <br> 
 
 ### Contatos                                                                                                                                                
