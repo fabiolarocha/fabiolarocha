@@ -1,16 +1,14 @@
 ## Bem-vindo ao meu repositório! Muito prazer, me chamo Fabíola Rocha! 🤝
 
-Entusiasta de tecnologia e inovação, evangelizadora da Cultura da Qualidade em todas as etapas do desenvolvimento de software. Meu objetivo é garantir entregas que atendam às expectativas dos clientes e usuários, contribuindo para alcançar a maior qualidade possível. Estou sempre em busca de novos conhecimentos, tecnologias emergentes e processos mais ágeis.
-
-Com mais de 12 anos de experiência em administração, finanças, pesquisa e tecnologia, desenvolvi competências em planejamento estratégico, elaboração de processos, análise e interpretação de dados para obter insights relevantes. Sou capaz de me adaptar a mudanças, superar desafios e colaborar com profissionais de diferentes áreas para alcançar resultados em conjunto.
-
-Atualmente, estou me especializando em Garantia da Qualidade de Software (Quality Assurance), desenvolvendo expertise em processos de qualidade de software, boas práticas, documentação técnica (plano de testes, especificação de testes, relatórios de testes e de bugs), cenários de teste e testes funcionais. Tenho conhecimentos em ferramentas de teste, gestão de projetos, bancos de dados (SQL, MongoDB), metodologias ágeis (scrum, kanban) e versionamento de código.
+Entusiasta de tecnologia e inovação, evangelizadora da Cultura da Qualidade em todas as etapas do desenvolvimento de software. <br>
+Meu objetivo é garantir entregas contínuas que atendam às expectativas dos clientes e usuários finais, contribuindo para alcançar a maior qualidade possível. 
 
 ### 🎓 Formação acadêmica 
 ◾  ***Especialização em Desenvolvimento Web*** - [Instituto Federal do Sul do Minas Gerais](https://portal.ifsuldeminas.edu.br/) ✔️<br>
 ◾  ***Graduação em Análise e Desenvolvimento de Sistemas*** -  [Universidade Estadual do Tocantins](https://www.unitins.br/nPortal/) ✔️<br>
 ◾  ***Técnico em Desenvolvimento de Sistemas*** - [Instituto Federal do Sul do Minas Gerais](https://portal.ifsuldeminas.edu.br/) ✔️<br>
 ◾  ***Cursando Licenciatura em Computação*** -  [Universidade Federal do Tocantins](https://ww2.uft.edu.br/) ⏳
+
 
 ### 🎖️ Idioma 
 ◾  ***Inglês Básico*** - [TALKNTALK](https://www.talkntalk.com.br/);
