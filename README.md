@@ -4,14 +4,15 @@ Entusiasta de tecnologia e inovação, evangelizadora da Cultura da Qualidade em
 Meu objetivo é garantir entregas contínuas que atendam às expectativas dos clientes e usuários finais, contribuindo para alcançar a maior qualidade possível. 
 
 ### 🎓 Formação acadêmica 
+◾  ***Especialização em Engenharia de Softaware com ênfase em Qualidade e Testes*** - [VINCIT](https://www.faculdadevincit.edu.br/)✔️<br>
 ◾  ***Especialização em Desenvolvimento Web*** - [Instituto Federal do Sul do Minas Gerais](https://portal.ifsuldeminas.edu.br/) ✔️<br>
 ◾  ***Graduação em Análise e Desenvolvimento de Sistemas*** -  [Universidade Estadual do Tocantins](https://www.unitins.br/nPortal/) ✔️<br>
 ◾  ***Técnico em Desenvolvimento de Sistemas*** - [Instituto Federal do Sul do Minas Gerais](https://portal.ifsuldeminas.edu.br/) ✔️<br>
-◾  ***Cursando Licenciatura em Computação*** -  [Universidade Federal do Tocantins](https://ww2.uft.edu.br/) ⏳
+◾  ***Cursando Licenciatura em Computação*** -  [Universidade Federal do Tocantins](https://www.uft.edu.br/)/) ⏳
 
 
 ### 🎖️ Idioma 
-◾  ***Inglês Básico*** - [TALKNTALK](https://www.talkntalk.com.br/);
+◾  ***Inglês para Internacionalização - Básico ao Intermediário*** - [Universidade Federal do Tocantins](https://www.uft.edu.br/);
   
 ### 🎯 Principais Projetos - Treinamentos e Bootcamps em Quality Assurance 
 ◾  ***Bugou? Tá ON - Quality Assurance*** - [Instituto Joga Junto](https://www.linkedin.com/company/institutojogajunto/); ✔️<br>
