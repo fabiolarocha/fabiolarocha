@@ -1,7 +1,7 @@
 ## Bem-vinda ao meu repositório! Muito prazer, me chamo Fabíola Rocha! 🤝
 
 Entusiasta de tecnologia e inovação, evangelizadora da Cultura da Qualidade em todas as etapas do desenvolvimento de software. <br>
-Meu objetivo é garantir entregas contínuas que atendam às expectativas dos clientes e usuários finais, contribuindo para alcançar a maior qualidade possível. 
+Meu objetivo é garantir entregas contínuas que atendam às expectativas dos clientes e usuários finais, contribuindo para alcançar a maior qualidade possível em todos os nossos produtos. 
 
 ### 🎓 Formação acadêmica 
 ◾  ***Especialização em Engenharia de Softaware com ênfase em Qualidade e Testes*** - [VINCIT](https://www.faculdadevincit.edu.br/)✔️<br>
