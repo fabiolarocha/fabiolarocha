@@ -15,8 +15,6 @@ Meu objetivo é garantir entregas contínuas que atendam às expectativas dos cl
 ◾  ***Inglês para Internacionalização - Básico ao Intermediário*** - [Universidade Federal do Tocantins](https://www.uft.edu.br/);
   
 ### 🎯 Principais Projetos - Treinamentos e Bootcamps em Quality Assurance 
-◾  ***Bugou? Tá ON - Quality Assurance*** - [Instituto Joga Junto](https://www.linkedin.com/company/institutojogajunto/); ✔️<br>
-  Repositório: EM ANDAMENTO <br>
   
 ◾  ***Treinamento em Quality Assurance*** - [Qa.Coders](https://www.linkedin.com/company/qa-coders/); ✔️<br>
    Repositório: EM ANDAMENTO <br>  
@@ -43,6 +41,10 @@ Meu objetivo é garantir entregas contínuas que atendam às expectativas dos cl
   [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)]()
   [![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white)]()
   <br> 
+
+◾  ***Bugou? Tá ON - Quality Assurance*** - [Instituto Joga Junto](https://www.linkedin.com/company/institutojogajunto/); ✔️<br>
+  Repositório: EM ANDAMENTO <br>
+
 
 ### Contatos                                                                                                                                                
  <div>
