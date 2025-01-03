@@ -11,11 +11,11 @@ Meu objetivo é garantir entregas contínuas que atendam às expectativas dos cl
 ◾  ***Cursando Licenciatura em Computação*** -  [Universidade Federal do Tocantins](https://www.uft.edu.br/) ⏳
 
 ### 🎖️ Idioma 
-◾  ***Inglês para Internacionalização - Básico ao Intermediário*** - [Universidade Federal do Tocantins](https://www.uft.edu.br/);
+◾  ***Inglês para Internacionalização - Básico ao Intermediário*** - [Universidade Federal do Tocantins](https://www.uft.edu.br/); ⏳
   
 ### 🎯 Principais Projetos - Treinamentos e Bootcamps em Quality Assurance 
   
-◾  ***Treinamento em Quality Assurance*** - [Qa.Coders](https://www.linkedin.com/company/qa-coders/); ✔️<br>
+◾  ***Treinamento em Quality Assurance 2025*** - [Qa.Coders](https://www.linkedin.com/company/qa-coders/); ⏳ <br>
    Repositório: EM ANDAMENTO <br>  
    Ferramentas utilizadas: <br> 
 
