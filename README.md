@@ -10,7 +10,6 @@ Meu objetivo é garantir entregas contínuas que atendam às expectativas dos cl
 ◾  ***Técnico em Desenvolvimento de Sistemas*** - [Instituto Federal do Sul do Minas Gerais](https://portal.ifsuldeminas.edu.br/) ✔️<br>
 ◾  ***Cursando Licenciatura em Computação*** -  [Universidade Federal do Tocantins](https://www.uft.edu.br/) ⏳
 
-
 ### 🎖️ Idioma 
 ◾  ***Inglês para Internacionalização - Básico ao Intermediário*** - [Universidade Federal do Tocantins](https://www.uft.edu.br/);
   
@@ -28,7 +27,10 @@ Meu objetivo é garantir entregas contínuas que atendam às expectativas dos cl
 [![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)]()
 [![](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)]()
 [![](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)]()
-   
+
+   ***Programa IT Talent - Quality Assurance - IREDE - Instituto de Gestão, Redes Tecnológicas e Energias*** - [IREDE](https://irede.org.br/); ✔️<br>
+   Repositório: EM ANDAMENTO <br>  
+   Ferramentas utilizadas: <br>    
   
 ◾  ***Bootcamp em Quality Assurance*** - [Instituto Atlântico](https://www.linkedin.com/company/instituto-atlantico/) [Avanti](https://www.linkedin.com/company/avantiatlantico/)✔️<br>
   Repositório:  [Loja online: Product Store](https://github.com/fabiolarocha/bootcampQA_Atlantico).<br>
