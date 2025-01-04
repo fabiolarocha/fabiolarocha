@@ -12,7 +12,7 @@ Meu objetivo é garantir entregas contínuas que atendam às expectativas dos cl
 ◾  ***Estudando para Certified Tester Foundation Level  [CTFL]*** - [Brazilian Software Testing Qualifications Board](https://bstqb.online/ctfl/) 📚 <br>
 
 ### 🎖️ Idioma 
-◾  ***Inglês para Internacionalização - Básico ao Intermediário*** - [Universidade Federal do Tocantins](https://www.uft.edu.br/); ⏳
+◾  ***Inglês para Internacionalização - Básico ao Intermediário*** - [Universidade Federal do Tocantins](https://www.uft.edu.br/) ⏳ <br>
   
 ### 🎯 Principais Projetos - Treinamentos e Bootcamps em Quality Assurance 
   
