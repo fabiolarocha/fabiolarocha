@@ -8,8 +8,8 @@ Meu objetivo é garantir entregas contínuas que atendam às expectativas dos cl
 ◾  ***Especialização em Desenvolvimento Web*** - [Instituto Federal do Sul do Minas Gerais](https://portal.ifsuldeminas.edu.br/) ✔️<br>
 ◾  ***Graduação em Análise e Desenvolvimento de Sistemas*** -  [Universidade Estadual do Tocantins](https://www.unitins.br/nPortal/) ✔️<br>
 ◾  ***Técnico em Desenvolvimento de Sistemas*** - [Instituto Federal do Sul do Minas Gerais](https://portal.ifsuldeminas.edu.br/) ✔️<br>
-◾  ***Cursando Licenciatura em Computação*** -  [Universidade Federal do Tocantins](https://www.uft.edu.br/) ⏳
-   ***Estudando para Certified Tester Foundation Level  [ CTFL ] - [Brazilian Software Testing Qualifications Board] (https://bstqb.online/ctfl/) 📚 
+◾  ***Cursando Licenciatura em Computação*** -  [Universidade Federal do Tocantins](https://www.uft.edu.br/) ⏳ <br>
+   ***Estudando para Certified Tester Foundation Level  [ CTFL ]*** - [Brazilian Software Testing Qualifications Board](https://bstqb.online/ctfl/) 📚 <br>
 
 ### 🎖️ Idioma 
 ◾  ***Inglês para Internacionalização - Básico ao Intermediário*** - [Universidade Federal do Tocantins](https://www.uft.edu.br/); ⏳
