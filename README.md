@@ -36,7 +36,6 @@ Meu objetivo é garantir entregas contínuas que atendam às expectativas dos cl
 ◾  ***Bootcamp em Quality Assurance*** - [Instituto Atlântico](https://www.linkedin.com/company/instituto-atlantico/) [Avanti](https://www.linkedin.com/company/avantiatlantico/)✔️<br>
   Repositório:  [Loja online: Product Store](https://github.com/fabiolarocha/bootcampQA_Atlantico).<br>
   Ferramentas utilizadas: <br>
-  
   [![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)]()
   [![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]()
   [![Google Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)]()
