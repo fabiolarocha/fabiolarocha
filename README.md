@@ -1,9 +1,3 @@
-
-
-Aqui está uma versão revisada e otimizada do seu README no GitHub, com uma estrutura mais clara, linguagem envolvente e foco em atrair recrutadores e conexões:
-
----
-
 # Bem-vinda(o) ao meu repositório!  👋 
 Olá, eu sou **Fabíola Rocha**, apaixonada por tecnologia, inovação e qualidade em software! 🚀  
 
