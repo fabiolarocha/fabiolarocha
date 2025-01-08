@@ -4,14 +4,14 @@ Aqui está uma versão revisada e otimizada do seu README no GitHub, com uma est
 
 ---
 
-# 👋 Bem-vinda(o) ao meu repositório!  
+# Bem-vinda(o) ao meu repositório!  👋 
 Olá, eu sou **Fabíola Rocha**, apaixonada por tecnologia, inovação e qualidade em software! 🚀  
 
-🔎 **Minha missão**: Garantir entregas contínuas de software com alta qualidade, atendendo às expectativas de clientes e usuários, enquanto dissemino a Cultura da Qualidade em todas as etapas do desenvolvimento.  
+**Minha missão**: 🔎  Garantir entregas contínuas de software com alta qualidade, atendendo às expectativas de clientes e usuários, enquanto dissemino a Cultura da Qualidade em todas as etapas do desenvolvimento.  
 
 ---
 
-## 📚 **Formação Acadêmica**
+## **Formação Acadêmica** 📚 
 - **Pós-graduação em Engenharia de Software com ênfase em Qualidade e Testes** - [VINCIT](https://www.faculdadevincit.edu.br/) ✔️  
 - **Pós-graduação em Desenvolvimento Web** - [IFSULDEMINAS](https://portal.ifsuldeminas.edu.br/) ✔️  
 - **Graduação em Análise e Desenvolvimento de Sistemas** - [UNITINS](https://www.unitins.br/nPortal/) ✔️  
@@ -21,12 +21,12 @@ Olá, eu sou **Fabíola Rocha**, apaixonada por tecnologia, inovação e qualida
 
 ---
 
-## 🌎 **Idiomas**
+## **Idiomas** 🌎 
 - **Inglês - Nível Intermediário** - Foco em internacionalização e comunicação técnica.
 
 ---
 
-## 💼 **Projetos e Experiência em Quality Assurance**
+## **Projetos e Experiência em Quality Assurance** 💼 
 ### **Bootcamp e Treinamentos**
 #### 🔹 **Programa IT Talent - Quality Assurance**  
 - **Instituto IREDE** ([Saiba mais](https://irede.org.br/)) ✔️  
@@ -44,7 +44,7 @@ Olá, eu sou **Fabíola Rocha**, apaixonada por tecnologia, inovação e qualida
 
 ---
 
-## 🛠️ **Habilidades Técnicas**
+##  **Habilidades Técnicas** 🛠️
 **Ferramentas e Tecnologias:**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
