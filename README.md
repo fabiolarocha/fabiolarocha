@@ -19,11 +19,12 @@ Minha missão é unir **qualidade, tecnologia e educação**, contribuindo tanto
 # 🎓 Formação Acadêmica
 
 - 🎓 **Licenciatura em Computação** *(conclusão prevista para 2026)* — Universidade Federal do Tocantins (UFT)
+- 🎓 **Pós-Graduação em Desenvolvimento de Sistemas Computacionais** *(conclusão prevista para 2026)* — (IFTO)
 - ✅ Pós-graduação em Engenharia de Software com Ênfase em Qualidade e Testes
 - ✅ Pós-graduação em Desenvolvimento Web
 - ✅ Graduação em Análise e Desenvolvimento de Sistemas
 - ✅ Técnico em Desenvolvimento de Sistemas
-- 📚 Certificação **ISTQB® CTFL**
+- 🎓 Certificação **ISTQB® CTFL - 2026**
 
 ---
 
@@ -91,7 +92,7 @@ Experiência em:
 # 🌎 Idiomas
 
 - 🇧🇷 Português — Nativo
-- 🇺🇸 Inglês — Intermediário
+- 🇺🇸 Inglês — Básico
 - 🇪🇸 Espanhol — Básico
 
 ---
