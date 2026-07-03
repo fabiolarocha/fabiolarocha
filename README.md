@@ -1,12 +1,12 @@
-# Olá, eu sou a Fabíola Rocha! 👩🏻‍💻🐞
+# Olá, eu sou a Fabíola Rocha! 👩🏻‍💻
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Quality+Assurance+(QA);Licencianda+em+Computação;Apaixonada+pela+Docência;Robótica+Educacional;Tecnologia+como+Transformação+Social&center=true&width=700&height=45">
 </p>
 
-# 👩🏻‍💻 Sobre 
+# 
 
-Sou **Analista de Qualidade de Software (QA)**, apaixonada por tecnologia, educação e inovação.
+**Analista de Qualidade de Software (QA)**, apaixonada por tecnologia, educação e inovação.
 
 Atualmente estou **finalizando a Licenciatura em Computação pela Universidade Federal do Tocantins (UFT)**, conciliando minha atuação em Qualidade de Software com projetos de **Robótica Educacional**, acreditando que a tecnologia é uma poderosa ferramenta de transformação social.
 
