@@ -29,10 +29,10 @@ Movida pelo **Propósito** de **Transformar Pessoas** e **Construir o Futuro** p
 
 Atualmente atuo como:
 
-- 🤖 Monitora Voluntária do **Projeto PSID – IFTO**
-- 💡 Monitora no curso de **Robótica Educacional para crianças e adolecentes**
-- 📖 Pesquisadora na área de Educação, Tecnologia e Robótica
-- ❤️ Apaixonada pela docência e pela formação de novos talentos na área de tecnologia
+- Monitora voluntária no **Projeto Social de Inclusão Digital “Anjo da Guarda” PSID-IFTO** 🤝🏻 
+- Curso de **Robótica Educacional para crianças e adolecentes** 🤖 
+- Pesquisadora na área de Educação, Tecnologia e Robótica Educacional 📖 
+- Apaixonada pela docência e pela formação de novos talentos na área de tecnologia ❤️ 
 
 Acredito que ensinar é uma das formas mais poderosas de aprender.
 
@@ -44,19 +44,13 @@ Acredito que ensinar é uma das formas mais poderosas de aprender.
 
 Experiência em:
 
-- Testes Manuais
-- Testes Funcionais
-- Testes Exploratórios
+- Testes Manuais, Funcionais e Exploratórios
 - Análise de Requisitos
-- Casos de Teste
-- Critérios de Aceite
+- Casos de Teste, Critérios de Aceite
 - Documentação de Bugs
-- Azure DevOps
-- Jira
-- Postman
-- Selenium
-- MongoDB
-- SQL
+- Azure DevOps, Jira
+- Postman, Selenium
+- MongoDB, SQL
 
 ---
 
