@@ -29,8 +29,8 @@ Movida pelo **Propósito** de **Transformar Pessoas** e **Construir o Futuro** p
 
 Atualmente atuo como:
 
-- Estagiária na disciplina de Fundamentos de Banco de Dados – Curso Técnico em Informática para a Internet – IFTO Campus Palmas (TO) 🛢🗄️💾
-- Estagiária na disciplina de Fundamentos de Banco de Dados – Curso Superior de Tecnologia em Sistemas para a Internet – IFTO Campus Palmas (TO) 🛢🗄️💾
+- Estagiária na disciplina de Fundamentos de Banco de Dados – Curso Técnico em Informática para a Internet – IFTO Campus Palmas (TO) 💾
+- Estagiária na disciplina de Fundamentos de Banco de Dados – Curso Superior de Tecnologia em Sistemas para a Internet – IFTO Campus Palmas (TO) 💾
 - Monitora voluntária no **Projeto Social de Inclusão Digital “Anjo da Guarda” PSID-IFTO** 🤝🏻 
 - Curso de **Robótica Educacional para crianças e adolecentes** 🤖 
 - Pesquisadora na área de Educação, Tecnologia e Robótica Educacional 📖 
