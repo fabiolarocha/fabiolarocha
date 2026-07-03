@@ -38,22 +38,6 @@ Acredito que ensinar é uma das formas mais poderosas de aprender.
 
 ---
 
-# 💼 Experiência
-
-## Quality Assurance (QA) 🐞
-
-Experiência em:
-
-- Testes Manuais, Funcionais e Exploratórios
-- Análise de Requisitos
-- Casos de Teste, Critérios de Aceite
-- Documentação de Bugs
-- Azure DevOps, Jira
-- Postman, Selenium
-- MongoDB, SQL
-
----
-
 # 🚀 Tecnologias
  
 ### Qualidade de Software
