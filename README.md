@@ -7,7 +7,10 @@
 
 **Analista de Qualidade de Software (QA)**, apaixonada por tecnologia, educação e inovação.
 
-Construo software com qualidade, ensino tecnologia e acredito que compartilhar conhecimento é uma das formas mais poderosas de transformar vidas.
+- 🔎 Qualidade como Compromisso.
+- 📚 Educação como Legado.
+- 🤖 Tecnologia como Transformação.
+- 🌱 Aprendizado Contínuo como Estilo de Vida.
 
 ---
 
