@@ -91,19 +91,19 @@ Experiência em:
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=fabiolarocha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
-    alt="GitHub Stats"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiolarocha&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
+  <img src="https://streak-stats.demolab.com?user=fabiolarocha&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fabiolarocha&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fabiolarocha&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fabiolarocha&theme=tokyonight" />
 </p>
 
 ---
