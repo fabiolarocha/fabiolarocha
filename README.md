@@ -62,19 +62,6 @@ Acredito que ensinar é uma das formas mais poderosas de aprender.
 
 ---
 
-# 🌱 Atualmente estudando
-
-- Automação
-- Inteligêmc
-- DevOps
-- Cloud Computing
-- Cibersegurança
-- Automação de Testes
-- Robótica Educacional
-- Metodologias Ativas de Ensino
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -92,26 +79,8 @@ Acredito que ensinar é uma das formas mais poderosas de aprender.
 
 ---
 
-# 📫 Vamos nos conectar?
-
-💼 LinkedIn:
-> https://linkedin.com/in/fabiolagrocha
-
-📧 Email:
-> fabiolagrocha@outlook.com.br
-
----
-
 <p align="center">
 
-### 💜 "A tecnologia transforma o mundo. A educação transforma pessoas. Juntas, elas transformam o futuro."
-
-</p>
-## 🤝 **Conecte-se comigo!**
-📬 **Vamos conversar sobre oportunidades, tecnologia e inovação?**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiolagrocha)  
+### "A tecnologia transforma o mundo. A educação transforma pessoas. Juntas, elas transformam o futuro." 
 
 ---
-
-### 🌟 **Sobre mim**  
-Curiosa e em constante aprendizado, busco aprimorar minhas habilidades enquanto colaboro para o sucesso de projetos desafiadores. Vamos construir juntos um futuro mais inovador e tecnológico!
