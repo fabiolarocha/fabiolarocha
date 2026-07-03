@@ -1,7 +1,7 @@
 # Hello World, sou a Fabíola Rocha! 👩🏻‍💻👩🏻‍🏫❤️
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Analista+de+Sistemas;Especialista+em+Desenvolvimento+Web;Especialista+em+Engenharia+de+Software;Quality+Assurance+(QA);Certificada+Internacionalmente+pelo+ISTQB®+(CTFL);Licencianda+em+Computação;Apaixonada+pela+Docência;Robótica+Educacional;Tecnologia+como+Transformação+Social&center=true&width=700&height=45&color=39D353">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Analista+de+Sistemas;Especialista+em+Desenvolvimento+Web;Especialista+em+Engenharia+de+Software;Quality+Assurance+(QA);Certificada+Internacionalmente+pelo+ISTQB®+(CTFL);Licencianda+em+Computação;Apaixonada+pela+Docência;Monitora+Projeto+Social+de+Inclusão+Digital+“Anjo+da+Guarda”+PSID-IFTO;Robótica+Educacional;Tecnologia+como+Transformação+Social&center=true&width=700&height=45&color=39D353">
 </p>
 
 
