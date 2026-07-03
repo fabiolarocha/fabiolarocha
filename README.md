@@ -15,8 +15,8 @@ Movida pelo **Propósito** de **Transformar Pessoas** e **Construir o Futuro** p
 
 # 🎓 Formação Acadêmica
 
-- **Licenciatura em Computação** *(conclusão 2026/2)* — Universidade Federal do Tocantins (UFT)
-- **Pós-Graduação em Desenvolvimento de Sistemas Computacionais** *(conclusão 2026)* — (IFTO)
+- **Licenciatura em Computação** *(conclusão 2026/2)* — UFT 📚
+- **Pós-Graduação em Desenvolvimento de Sistemas Computacionais** *(conclusão 2026)* — IFTO 📚
 - Pós-graduação em Engenharia de Software com Ênfase em Qualidade e Testes — FACINT ✅ 
 - Pós-graduação em Desenvolvimento Web — IFSULDEMINAS ✅ 
 - Graduação em Análise e Desenvolvimento de Sistemas — UNITINS ✅ 
