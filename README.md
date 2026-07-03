@@ -7,10 +7,10 @@
 
 **Analista de Qualidade de Software (QA)**, apaixonada por tecnologia, educação e inovação.
 
-- 🔎 Qualidade como Compromisso.
-- 📚 Educação como Legado.
-- 🤖 Tecnologia como Transformação.
-- 🌱 Aprendizado Contínuo como Estilo de Vida.
+- Qualidade como Compromisso 🔎 
+- Educação como Legado 📚 
+- Tecnologia como Transformação 🤖 
+- Aprendizado Contínuo como Estilo de Vida 🌱 
 
 ---
 
