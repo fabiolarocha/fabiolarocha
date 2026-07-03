@@ -1,4 +1,4 @@
-# Olá, eu sou a Fabíola Rocha! 👋
+# Olá, eu sou a Fabíola Rocha! 👩🏻‍💻
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Quality+Assurance+(QA);Licencianda+em+Computação;Apaixonada+pela+Docência;Robótica+Educacional;Tecnologia+como+Transformação+Social&center=true&width=700&height=45">
