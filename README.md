@@ -18,13 +18,13 @@ Minha missão é unir **qualidade, tecnologia e educação**, contribuindo tanto
 
 # 🎓 Formação Acadêmica
 
-- 🎓 **Licenciatura em Computação** *(conclusão prevista para 2026)* — Universidade Federal do Tocantins (UFT)
-- 🎓 **Pós-Graduação em Desenvolvimento de Sistemas Computacionais** *(conclusão prevista para 2026)* — (IFTO)
-- ✅ Pós-graduação em Engenharia de Software com Ênfase em Qualidade e Testes
-- ✅ Pós-graduação em Desenvolvimento Web
-- ✅ Graduação em Análise e Desenvolvimento de Sistemas
-- ✅ Técnico em Desenvolvimento de Sistemas
-- 🎓 Certificação **ISTQB® CTFL - 2026**
+- **Licenciatura em Computação** *(conclusão prevista para 2026)* — Universidade Federal do Tocantins (UFT)
+- **Pós-Graduação em Desenvolvimento de Sistemas Computacionais** *(conclusão prevista para 2026)* — (IFTO)
+- Pós-graduação em Engenharia de Software com Ênfase em Qualidade e Testes — FACINT ✅ 
+- Pós-graduação em Desenvolvimento Web — IFSULDEMINAS ✅ 
+- Graduação em Análise e Desenvolvimento de Sistemas — UNITINS ✅ 
+- Técnico em Desenvolvimento de Sistemas — IFSULDEMINAS ✅ 
+- Certificação **ISTQB® CTFL - 2026** ✅ 
 
 ---
 
@@ -33,7 +33,7 @@ Minha missão é unir **qualidade, tecnologia e educação**, contribuindo tanto
 Atualmente atuo como:
 
 - 🤖 Monitora Voluntária do **Projeto PSID – IFTO**
-- 💡 Instrutora em oficinas de **Robótica Educacional**
+- 💡 Monitora no curso de **Robótica Educacional para crianças e adolecentes**
 - 📖 Pesquisadora na área de Educação, Tecnologia e Robótica
 - ❤️ Apaixonada pela docência e pela formação de novos talentos na área de tecnologia
 
@@ -54,8 +54,6 @@ Experiência em:
 - Casos de Teste
 - Critérios de Aceite
 - Documentação de Bugs
-- Scrum
-- Product Owner
 - Azure DevOps
 - Jira
 - Postman
