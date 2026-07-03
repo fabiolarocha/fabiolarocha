@@ -7,16 +7,14 @@
 
 **Analista de Qualidade de Software (QA)**, apaixonada por tecnologia, educação e inovação.
 
-💜 QA Engineer | 🎓 Licencianda em Computação | 🤖 Robótica Educacional
-
 Construo software com qualidade, ensino tecnologia e acredito que compartilhar conhecimento é uma das formas mais poderosas de transformar vidas.
 
 ---
 
 # 🎓 Formação Acadêmica
 
-- **Licenciatura em Computação** *(conclusão prevista para 2026)* — Universidade Federal do Tocantins (UFT)
-- **Pós-Graduação em Desenvolvimento de Sistemas Computacionais** *(conclusão prevista para 2026)* — (IFTO)
+- **Licenciatura em Computação** *(conclusão 2026/2)* — Universidade Federal do Tocantins (UFT)
+- **Pós-Graduação em Desenvolvimento de Sistemas Computacionais** *(conclusão 2026)* — (IFTO)
 - Pós-graduação em Engenharia de Software com Ênfase em Qualidade e Testes — FACINT ✅ 
 - Pós-graduação em Desenvolvimento Web — IFSULDEMINAS ✅ 
 - Graduação em Análise e Desenvolvimento de Sistemas — UNITINS ✅ 
