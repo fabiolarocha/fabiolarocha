@@ -7,11 +7,9 @@
 
 **Analista de Qualidade de Software (QA)**, apaixonada por tecnologia, educação e inovação.
 
-Atualmente estou **finalizando a Licenciatura em Computação pela Universidade Federal do Tocantins (UFT)**, conciliando minha atuação em Qualidade de Software com projetos de **Robótica Educacional**, acreditando que a tecnologia é uma poderosa ferramenta de transformação social.
+💜 QA Engineer | 🎓 Licencianda em Computação | 🤖 Robótica Educacional
 
-Além da área de QA, desenvolvo atividades como **Monitora Voluntária do Projeto PSID (Práticas em Sistemas de Informação para o Desenvolvimento)**, do **Instituto Federal do Tocantins (IFTO)**, ministrando oficinas de robótica para estudantes do Ensino Fundamental II de escolas públicas.
-
-Minha missão é unir **qualidade, tecnologia e educação**, contribuindo tanto para o desenvolvimento de software quanto para a formação de novos profissionais da área.
+Construo software com qualidade, ensino tecnologia e acredito que compartilhar conhecimento é uma das formas mais poderosas de transformar vidas.
 
 ---
 
