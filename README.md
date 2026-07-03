@@ -1,4 +1,4 @@
-# Hello World, sou a Fabíola Rocha! 👩🏻‍💻👩🏻‍🏫❤️
+# Hello World, sou Fabíola Rocha! 👩🏻‍💻👩🏻‍🏫❤️
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Analista+de+Sistemas;Especialista+em+Desenvolvimento+Web;Especialista+em+Engenharia+de+Software;Quality+Assurance+(QA);Certificada+Internacionalmente+pelo+ISTQB®+CTFL+4.0;Licencianda+em+Computação;Apaixonada+pela+Docência;Monitora+Voluntário+do+PSID-IFTO+“Anjo+da+Guarda”;Robótica+Educacional;Tecnologia+como+Transformação+Social&center=true&width=700&height=45&color=39D353">
@@ -40,7 +40,7 @@ Acredito que ensinar é uma das formas mais poderosas de aprender.
 
 # 💼 Experiência
 
-## 🔹 Quality Assurance (QA)
+## Quality Assurance (QA) 🐞
 
 Experiência em:
 
@@ -78,16 +78,10 @@ Experiência em:
 
 ---
 
-# 🌎 Idiomas
-
-- 🇧🇷 Português — Nativo
-- 🇺🇸 Inglês — Básico
-- 🇪🇸 Espanhol — Básico
-
----
-
 # 🌱 Atualmente estudando
 
+- Automação
+- Inteligêmc
 - DevOps
 - Cloud Computing
 - Cibersegurança
@@ -100,11 +94,16 @@ Experiência em:
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=fabiolarocha&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiolarocha&layout=compact&theme=tokyonight"/>
-
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=fabiolarocha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+    alt="GitHub Stats"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiolarocha&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
 ---
