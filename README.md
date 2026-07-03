@@ -5,7 +5,7 @@
 </p>
 
 
-**Analista de Qualidade de Software (QA)**, apaixonada por tecnologia, educação e inovação.
+**Analista de Sistemas**, apaixonada por tecnologia, educação e inovação.
 
 - Qualidade como Compromisso 🔎 
 - Educação como Legado 📚 
