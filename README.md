@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Analista+de+Sistemas;Especialista+em+Desenvolvimento+Web;Especialista+em+Engenharia+de+Software;Quality+Assurance+(QA);Certificada+Internacionalmente+pelo+ISTQB®+CTFL+4.0;Licencianda+em+Computação;Apaixonada+pela+Docência;Monitora+Voluntário+do+PSID-IFTO+“Anjo+da+Guarda”;Robótica+Educacional;Tecnologia+como+Transformação+Social&center=true&width=700&height=45&color=39D353">
 </p>
 
-Movida pelo **propósito** de **transformar pessoas** e **construir o futuro** por meio do **conhecimento** e da **inovação**.
+Movida pelo **Propósito** de **Transformar Pessoas** e **Construir o Futuro** por meio do **Conhecimento** e da **Inovação**.
 
 - Qualidade como Compromisso 🔎 
 - Educação como Legado 📚 
