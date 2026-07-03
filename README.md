@@ -67,16 +67,11 @@ Acredito que ensinar é uma das formas mais poderosas de aprender.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=fabiolarocha&theme=tokyonight&hide_border=true" />
+  <img width="430" src="https://streak-stats.demolab.com?user=fabiolarocha&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fabiolarocha&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fabiolarocha&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fabiolarocha&theme=tokyonight" />
+  <img width="430" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fabiolarocha&theme=tokyonight"/>
 </p>
 
 ---
