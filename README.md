@@ -36,8 +36,6 @@ Atualmente atuo como:
 - Pesquisadora na área de Educação, Tecnologia e Robótica Educacional 📖 
 - Apaixonada pela docência e pela formação de novos talentos na área de tecnologia ❤️ 
 
-Acredito que ensinar é uma das formas mais poderosas de aprender.
-
 ---
 
 # 🚀 Tecnologias
@@ -77,7 +75,5 @@ Acredito que ensinar é uma das formas mais poderosas de aprender.
 ---
 
 <p align="center">
-
-### "A tecnologia transforma o mundo. A educação transforma pessoas. Juntas, elas transformam o futuro." 
 
 ---
