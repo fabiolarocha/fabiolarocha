@@ -73,7 +73,3 @@ Atualmente atuo como:
 </p>
 
 ---
-
-<p align="center">
-
----
